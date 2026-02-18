@@ -10,8 +10,6 @@ A lightweight online tool that converts normal text into small Unicode text styl
 - Tiny Text Variants
 - Fancy Unicode Styles
 
-🔗 Live Tool: https://smalltextgen.com/
-
 ---
 
 ## 📌 What This Tool Does
@@ -31,8 +29,6 @@ A lightweight online tool that converts normal text into small Unicode text styl
 - Subscript
 - Tiny Text Variants
 - Fancy Unicode Styles
-
-🔗 Live Tool: https://smalltextgen.com/
 
 ---
 
