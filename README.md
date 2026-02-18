@@ -22,16 +22,6 @@ Unlike traditional fonts, this generator uses **Unicode characters**, which mean
 
 ---
 
-## ⚙️ How It Works
-
-Computers do not store letters as shapes.  
-They store numbers assigned to each character.
-
-Unicode is a global standard that assigns a unique code to every letter, symbol, and emoji.  
-This generator replaces standard characters with their Unicode equivalents to create the "small text" effect.
-
-Example:
-
 # Small Text Generator
 
 A lightweight online tool that converts normal text into small Unicode text styles such as:
@@ -137,15 +127,6 @@ Superscript:
 Subscript:
 ₐbcdₑfgₕᵢjₖₗₘₙₒₚqᵣₛₜᵤᵥwₓyz
 
-
----
-
-## 🔍 SEO Purpose of This Project
-
-This repository exists to document:
-- The educational explanation of Unicode-based text transformation
-- The methodology behind small text generation
-- The implementation logic for lightweight browser tools
 
 ---
 
